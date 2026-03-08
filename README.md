@@ -35,4 +35,4 @@ make
 - **C++** with Makefile build system
 
 ---
-*Built as part of CS coursework @ University of Illinois Chicago*
+
