@@ -15,8 +15,7 @@ class CircVector {
   size_t capacity;
   size_t front_idx;
 
-  // TODO_STUDENT: add private helper functions, such as resize
-  // You may also find a "wrapping" function helpful.
+ 
   size_t wrap(size_t idx) const {
     return idx % capacity;
   }
